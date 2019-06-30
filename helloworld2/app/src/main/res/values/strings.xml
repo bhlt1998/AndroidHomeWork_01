@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloWorld2</string>
+    <string name="testview_str">HelloHelloHello</string>
+    <string name="robot_str">RobotRobotRobot</string>
+    <string name="check_str">CheckCheckCheck</string>
+    <string name="hello_str">Hello World!</string>
+</resources>
